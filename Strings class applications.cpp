@@ -1,3 +1,6 @@
+//Author:Manglam Tripathi
+//Date:15-12-2020
+//String Applications
 #include<iostream>
 #include<string>
 using namespace std;
