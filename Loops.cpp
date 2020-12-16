@@ -1,9 +1,12 @@
-// C++ program to illustrate need of loops 
+//Author:Manglam Tripathi
+//Date:16-12-2020
+//  loops 
 #include <iostream> 
 using namespace std; 
 
 int main() 
 { 
+// 	Need of loop
 	cout << "Hello World\n"; 
 	cout << "Hello World\n"; 
 	cout << "Hello World\n"; 
@@ -17,28 +20,27 @@ int main()
 	
 	
 	
-	
+	//for loop
 	for (int i = 1; i <= 10; i++) 
     { 
         cout << "Hello World\n"; 
     } 
     
     
-    // initialization expression 
+   //while loop
     int i = 1; 
   
-    // test expression 
+  
     while (i < 6) 
     { 
         cout << "Hello World\n"; 
   
-        // update expression 
         i++; 
     } 
   
   
   
-  
+  //do while loop
   
     do
     { 
